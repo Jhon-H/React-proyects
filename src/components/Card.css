@@ -1,0 +1,48 @@
+.branch{
+  color: dodgerblue;
+}
+
+#name{
+ margin: 0;
+ margin-bottom: .5rem;
+ font-size: 1.2rem;
+}
+
+#title{
+  margin: 0;
+  margin-bottom: 1.5rem;
+}
+
+.card{
+  border: .2rem solid rgb(255, 201, 187);
+  padding: 1rem;
+  border-radius: .5rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  width: 90%;
+}
+
+.card h2{
+  text-align: center;
+}
+
+.Habilidades span{
+  display: inline-block;
+  margin-left: 1rem;
+  padding: 0 1rem;
+
+  border-radius: .5rem;
+  background-color: rgba(39, 39, 39, 0.1);
+  color: goldenrod;
+}
+
+.name-s{
+  font-size: 1.1rem!important;
+}
+
+@media screen and (min-width:1000px) {
+  .card{
+    width: 45rem;
+  }
+
+}

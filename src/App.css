@@ -1,0 +1,16 @@
+
+#main{
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  padding: .3rem;
+  border: .1rem dashed black;
+}
+
+@media screen and (min-width:1000px) {
+  #main{
+    flex-direction: row;
+    justify-content: space-around;
+    width: min(90%, 80rem);
+  }
+}
