@@ -1,0 +1,56 @@
+#userInfo{
+  text-align: center;
+}
+
+#img{
+  height: 4rem;
+  width: 4rem;
+  border: .1rem solid gray;
+  border-radius: 50%;
+}
+
+#Username{
+  margin: 1rem 0 0;
+  font-weight: bold;
+  font-size: 2rem;
+  color: navy;
+}
+
+#city{
+  font-style: italic;
+  margin: .3rem;
+}
+
+.link{
+  margin-left: 1rem;
+}
+
+.link i{
+  color: rgb(147, 181, 255);
+  font-size: 1.3rem;
+}
+
+@media screen and (min-width: 1000px) {
+  .link i{
+    font-size: 1.4rem;
+  }
+
+  .link i:hover{
+    color: dodgerblue;
+    
+  }
+  
+}
+
+#mode {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 4rem;
+  height: 2rem;
+
+  font-size: 1.3rem;
+  border-style: none;
+  border-radius: 1rem;
+  border: .1rem solid goldenrod;
+  background-color:#fffadc;
+}

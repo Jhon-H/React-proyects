@@ -1,0 +1,83 @@
+{
+  "studies": [
+    {
+      "id": 1,
+      "name": "UNAL",
+      "title": "Ingeniería de sistemas"
+    },
+    {
+      "id": 2,
+      "name": "Academia Geek",
+      "title": "Curso de front-end"
+    }
+  ],
+
+  "experience": [
+    {
+      "id": 1,
+      "name": "Academia geek",
+      "title": "Front-end developer en proyectos pequeños"
+    },
+    {
+      "id": 2,
+      "name": "Academia geek",
+      "title": "Back-end developer en proyectos pequeños"
+    }
+  ],
+  
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Responsive Web Design"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript Algorithms and Data Structures"
+    }
+  ],
+
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "level": 3
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "level": 3
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "level": 3
+    },
+    {
+      "id": 4,
+      "name": "c++",
+      "level": 2
+    },
+    {
+      "id": 5,
+      "name": "python",
+      "level": 2
+    },
+    {
+      "id": 6,
+      "name": "react",
+      "level": 1
+    }
+  ],
+
+  "info": {
+    "name": "Jhon Hernandez",
+    "city": "Medellin - Colombia",
+    "img": "#",
+    "social": [
+      ["fa fa-github", "https://github.com/Jhon-H"],
+      ["fa fa-linkedin", "https://www.linkedin.com/in/jhon-h"],
+      ["fab fa-discord", "https://discord.gg/f76fwkYV"],
+      ["fa fa-laptop-code", "https://codeforces.com/profile/Jhon_z09"]
+    ]
+  }
+}
